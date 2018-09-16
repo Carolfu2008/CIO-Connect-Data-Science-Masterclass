@@ -77,7 +77,7 @@ For those of you that are interested, there are several free services that you c
       - https://www.coursera.org/
   4. __EdX__ -- Website hosting course materials from various universities.
       - https://www.edx.org/
-  5. __Meetup__ -- Platform connecting people with similar interests. Best thing to do, if you are serious about the discipline, is to connect yourself with like minded individuals. After a quick Google search I found out that there are several meetups in Hong Kong on various topics related to ML/AI/DS.
+  5. __Meetup__ -- Platform connecting people with similar interests. Best thing to do, if you are serious about the discipline, is to connect yourself with like minded individuals. After a quick Google search I found out that there are several meetups in Hong Kong on various topics related to ML/AI/DS. Following are three of the largest Meetups on the topic(s) in question:
       - https://www.meetup.com/data-science-hk/?_cookie-check=IwlPov9IRA1--BnQ
       - https://www.meetup.com/Artificial-Intelligence-HK/
       - https://www.meetup.com/chatbot-ai-hong-kong/
