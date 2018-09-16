@@ -1,3 +1,5 @@
+___
+___
 # CIO-Connect-Data-Science-Masterclass
 
 
@@ -7,12 +9,12 @@ CIO-Connect is committed to developing CIOs and their leadership teams -- by pro
 
 The materials contained herein are intended and tailored for the use by paricipants in CIO-Connect's Data Science Masterclass (Hong Kong, September, 2018). Additional information and resources, tailored to the topic, can be found within the applicable Jupyter Notebook files.
 
+___
+___
 
 <br>
 
 ## Resources and Supplemental Materials
-___
-___
 
 Following is a list of additional supplemental materials for your use/consideration. This list was compiled based on your input, as well as by your requests. Should you need additonal information, please feel free to reach out to me.
 
@@ -23,7 +25,7 @@ Today, the world is literally reinventing itself with Data and AI.  However, lea
 
 The Data-X framework is designed to bridge the gap between theory and practice. We encourage all of CIO-Connect's attendees to visit the Data-X website for code samples, resources, and inspiration.
 
-  __Data-X:__https://data-x.blog/
+    __Data-X:__https://data-x.blog/
 
 <br>
 
