@@ -12,8 +12,6 @@ The materials contained herein are intended and tailored for the use by paricipa
 ___
 ___
 
-<br>
-
 ## Resources and Supplemental Materials
 
 Following is a list of additional supplemental materials for your use/consideration. This list was compiled based on your input, as well as by your requests. Should you need additonal information, please feel free to reach out to me.
@@ -25,10 +23,8 @@ Today, the world is literally reinventing itself with Data and AI.  However, lea
 
 The Data-X framework is designed to bridge the gap between theory and practice. We encourage all of CIO-Connect's attendees to visit the Data-X website for code samples, resources, and inspiration.
 
-    __Data-X:__https://data-x.blog/
-
-<br>
-
+__Data-X:__https://data-x.blog/
+___
 ### Fundamental Environment Tools
   1. __GitHub__ -- Github is the most popular version control software currently available. 
       - Video tutorial introducing the basics: https://www.youtube.com/watch?v=SWYqp7iY_Tc
@@ -39,10 +35,7 @@ The Data-X framework is designed to bridge the gap between theory and practice. 
   3. __Jupyter Notebook/Lab__ -- Powerful computation and presentation environment developed at UC Berkeley. Increasingly seen as the standard by serious ML practitioners.
       - Tutorial on using Jupyter Notebooks: https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
       - Tips and Tricks for Jupyter Notebooks: https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
-     
-      
-<br>
-
+___
 ### Theory For Day 1
 
   __Notes by Professor Anil Aswani (UC Berkeley):__ 
@@ -53,16 +46,12 @@ The Data-X framework is designed to bridge the gap between theory and practice. 
 
   __Stanford Graduate Course on Convolutinal Neural Networks:__ 
       - http://cs231n.stanford.edu/
-        
-<br>
-
+___
 ### Dialogflow (API.ai)
 
   __Dialogflow Doumentations__ -- a great resource for all things Dialogflow
       - https://dialogflow.com/docs
-
-<br> 
-
+___
 ### Additional Learning Resources
 For those of you that are interested, there are several free services that you can use to develop your ML skill set. Following is a list of resources I have found helpful.
 
