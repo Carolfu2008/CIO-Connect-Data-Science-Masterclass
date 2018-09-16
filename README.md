@@ -17,14 +17,18 @@ Following is a list of additional supplemental materials for your use/considerat
 ___
 ___
 
+<br>
+
 ### Data-X 
 
 Today, the world is literally reinventing itself with Data and AI.  However, learning a set of ‘related theories’ and being able to ‘make it work’ are not the same.  And, in an area as important as Artificial Intellience, if we collectively cannot actually implement and create useful systems, then we reduce our competitive advantage, economic strength, and even national/global security.
 
 The Data-X framework is designed to bridge the gap between theory and practice. We encourage all of CIO-Connect's attendees to visit the Data-X website for code samples, resources, and inspiration.
 
-  -__Data-X:__ https://data-x.blog/
+  - __Data-X:__ https://data-x.blog/
 ___
+
+<br>
 
 ### Fundamental Environment Tools
   1. __GitHub__ -- Github is the most popular version control software currently available. 
@@ -38,6 +42,8 @@ ___
       - Tips and Tricks for Jupyter Notebooks: https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
 ___
 
+<br>
+
 ### Theory For Day 1
 
   __Notes by Professor Anil Aswani (UC Berkeley):__ 
@@ -50,11 +56,15 @@ ___
       - http://cs231n.stanford.edu/
 ___
 
+<br>
+
 ### Dialogflow (API.ai)
 
   __Dialogflow Doumentations__ -- a great resource for all things Dialogflow
       - https://dialogflow.com/docs
 ___
+
+<br>
 
 ### Additional Learning Resources
 For those of you that are interested, there are several free services that you can use to develop your ML skill set. Following is a list of resources I have found helpful.
@@ -72,7 +82,6 @@ For those of you that are interested, there are several free services that you c
       - https://www.meetup.com/Artificial-Intelligence-HK/
       - https://www.meetup.com/chatbot-ai-hong-kong/
 
-<br>
 ___
 ___
         
