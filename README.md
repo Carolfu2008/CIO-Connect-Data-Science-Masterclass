@@ -18,6 +18,15 @@ Following is a list of additional supplemental materials for your use/considerat
 
 <br>
 
+### Data-X 
+Today, the world is literally reinventing itself with Data and AI.  However, learning a set of ‘related theories’ and being able to ‘make it work’ are not the same.  And, in an area as important as Artificial Intellience, if we collectively cannot actually implement and create useful systems, then we reduce our competitive advantage, economic strength, and even national/global security.
+
+The Data-X framework is designed to bridge the gap between theory and practice. We encourage all of CIO-Connect's attendees to visit the Data-X website for code samples, resources, and inspiration.
+
+  __Data-X:__https://data-x.blog/
+
+<br>
+
 ### Fundamental Environment Tools
   1. __GitHub__ -- Github is the most popular version control software currently available. 
       - Video tutorial introducing the basics: https://www.youtube.com/watch?v=SWYqp7iY_Tc
